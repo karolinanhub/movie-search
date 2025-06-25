@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=ufodJVcpmps&ab_channel=TylerPotts
 
 In the project directory, run:
 
-* npm start 
+* npm run dev 
 
 Runs the app in the development mode.
 Open http://localhost:5173 to view it in the browser.
