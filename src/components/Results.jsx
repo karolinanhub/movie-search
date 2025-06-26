@@ -1,7 +1,7 @@
 import Result from './Result'
 
 const Results = ({ results, openPopup }) => {
-    console.log('Results openPopup typeof:', typeof openPopup)
+    //console.log('Results openPopup typeof:', typeof openPopup)
     if (!results || results.length === 0) {
         console.log('No results found')
         return <div className="no-results"></div>

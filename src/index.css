@@ -36,14 +36,11 @@ main {
   border: none;
   outline: none;
 	background: none;
-
 	background-color: #EEE;
 	border-radius: 8px;
-
 	color: #53565A;
 	font-size: 20px;
 	font-weight: 300;
-
 	transition: 0.4s ease-out;
 }
 
@@ -115,7 +112,6 @@ main {
 	width: 100vw;
 	height: 100vh;
 	background-color: #445565;
-
 	overflow-y: scroll;
 }
 
@@ -125,20 +121,21 @@ main {
 	max-width: 960px;
 	margin: 0 auto;
 	padding: 25px;
-
 	color: #FFF;
 }
 
 .popup .content h2 {
 	font-size: 28px;
 	font-weight: 600;
+	margin-bottom: 20px;
 }
+
 .popup .content h2 span {
 	font-weight: 300;
 	font-size: 20px;
 }
 
-.popup .content .rating {
+.popup .content .genre {
 	margin-bottom: 30px;
 }
 
@@ -164,7 +161,6 @@ main {
 	padding: 15px 30px;
 	font-size: 18px;
 	font-weight: 700;
-
 	background: #4484C4;
 	color: #FFF;
 	border-radius: 8px;
@@ -172,7 +168,6 @@ main {
 	outline: none;
 	appearance: none;
 	cursor: pointer;
-
 	transition: 0.4s ease-out;
 }
 
